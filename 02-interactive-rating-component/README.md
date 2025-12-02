@@ -13,7 +13,7 @@ Users should be able to:
 
 ![](./design/desktop-design.jpg)
 
-![](./images/desktop-thank-you-state.jpg)
+![](./design/desktop-thank-you-state.jpg)
 
 ### Links
 
