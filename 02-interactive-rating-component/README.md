@@ -11,9 +11,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/image-product-desktop.jpg)
+![](./design/desktop-design.jpg)
 
-![](./images/image-product-mobile.jpg)
+![](./images/desktop-thank-you-state.jpg)
 
 ### Links
 
