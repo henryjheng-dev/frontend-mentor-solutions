@@ -1,6 +1,6 @@
 # Frontend Mentor Solutions
 
-Browse my completed [Frontend Mentor challenges](https://henryjheng-dev.github.io/frontend-mentor-solutions/).
+Browse my completed [Frontend Mentor challenges](https://henryjheng-dev.github.io/frontend-mentor-solutions/)
 
 | No  | Challenge                      | Difficulty | REPO                                                                                                            | DEMO                                                                                                 |
 | --- | ------------------------------ | ---------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
